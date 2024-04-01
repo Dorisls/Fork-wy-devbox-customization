@@ -1,4 +1,3 @@
-
 if (!(Get-Module -ListAvailable -Name Microsoft.WinGet.Configuration)) {
   Write-Host "WinGet is not installed"
 }
