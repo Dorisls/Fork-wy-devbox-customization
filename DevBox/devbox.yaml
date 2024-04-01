@@ -9,8 +9,5 @@ tasks:
     parameters:
       package: git.install
 userTasks:
-  - name: winget
-  - name: winget
-  - name: winget
-  - name: winget
-  - name: winget
+  - name: Pool-Level-WinGet-Apply
+  - name: Pool-Level-WinGet-Apply
