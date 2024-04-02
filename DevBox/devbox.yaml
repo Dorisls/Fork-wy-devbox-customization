@@ -10,4 +10,3 @@ tasks:
       package: git.install
 userTasks:
   - name: Pool-Level-WinGet-Apply
-  - name: Pool-Level-WinGet-Apply
